@@ -97,4 +97,3 @@ I did'nt see any useful resources other than the ones you all know
 ## Acknowledgments
 
 No acknowledgements, I done this alone!
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
